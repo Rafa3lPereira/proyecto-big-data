@@ -219,6 +219,7 @@ Guias adicionales en `docs/guias/`:
 
 - `despliegue_cluster_gcp.pdf` - Guia de despliegue de cluster en Google Cloud Platform
 - `guia_visualizacion.pdf` - Guia de visualizacion de datos
+- `uv_gestor_paquetes.md` - [Guia de uv](docs/guias/uv_gestor_paquetes.md): gestor de paquetes Python ultrarapido (Astral)
 
 ---
 
